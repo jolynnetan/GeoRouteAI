@@ -1,8 +1,4 @@
-.vercel
-.env*
 
-node_modules
-.vercel
 node_modules
 .vercel
 .env
