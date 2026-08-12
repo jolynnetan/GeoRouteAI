@@ -28,6 +28,13 @@ GeoRouteAI/
 └── README.md
 
 🚀 Getting Started
+🚀 Live Demo
+
+No local setup or VS Code required! You can try out the live web application directly here:
+
+👉 **[Launch GeoRouteAI Live Demo](https://georouteai.vercel.app)**
+
+
 Prerequisites
 Ensure you have Node.js (v18 or higher) and npm installed.
 
